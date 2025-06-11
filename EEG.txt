@@ -1,0 +1,63 @@
+Electroencephalography (EEG) is a non-invasive method used to record electrical activity of the brain.
+It involves placing electrodes on the scalp to measure voltage fluctuations resulting from ionic current flows within neurons.
+EEG is commonly used in clinical settings to diagnose conditions like epilepsy, sleep disorders, coma, encephalopathies, and brain death.
+It is also widely used in neuroscience research to study brain function, cognition, and brain-computer interfaces.
+The signal typically contains various brain wave patterns: delta, theta, alpha, beta, and gamma waves.
+
+An electroencephalogram (EEG) is a test that measures electrical activity in the brain. This test also is called an EEG. The test uses small, metal discs called electrodes that attach to the scalp. Brain cells communicate via electrical impulses, and this activity shows up as wavy lines on an EEG recording. Brain cells are active all the time, even during sleep.
+
+An EEG is one of the main tests to help diagnose epilepsy. An EEG also can play a role in diagnosing other brain conditions.
+
+Why it's done
+An EEG can find changes in brain activity that might aid in diagnosing brain conditions, especially epilepsy or another seizure condition. An EEG also might be helpful for diagnosing or treating:
+
+Brain tumors.
+Brain damage from a head injury.
+Brain disease that can have a variety of causes, known as encephalopathy.
+Inflammation of the brain, such as herpes encephalitis.
+Stroke.
+Sleep conditions.
+Creutzfeldt-Jakob disease.
+An EEG also might be used to confirm brain death in someone in a coma. A continuous EEG is used to help find the right level of anesthesia for someone in a medically induced coma.
+
+
+Risks
+EEGs are safe and painless. Sometimes seizures are intentionally triggered in people with epilepsy during the test, but appropriate medical care is provided if needed.
+
+How you prepare
+Take your usual medicines unless your care team tells you not to take them.
+
+Other precautions
+Wash your hair the night before or the day of the test, but don't use conditioners, hair creams, sprays or styling gels. Hair products can make it harder for the patches that hold the electrodes to stick to your scalp.
+If you're having a sleep EEG, you may be asked to sleep less or not to sleep the night before your EEG.
+If you might have a sedative before the EEG, plan to have someone drive you home after the test.
+
+You feel little or no discomfort during an EEG. The electrodes don't transmit any sensations. They just record your brain waves.
+
+Here are some things you can expect to happen during an EEG:
+
+A technician measures your head and marks your scalp with a special pencil to indicate where to attach the electrodes. These spots on your scalp might be scrubbed with a gritty cream to improve the quality of the recording.
+A technician attaches discs called electrodes to your scalp using an adhesive. Sometimes, an elastic cap fitted with electrodes is used instead. The electrodes are connected with wires to an instrument that amplifies the brain waves and records them on computer equipment.
+
+Once the electrodes are in place, an EEG typically takes between 20 and 40 minutes. For certain conditions, you need to sleep during the test. Tests that require you to sleep can be longer.
+
+You relax in a comfortable position with your eyes closed during the test. The technician might ask you to open and close your eyes or ask you to perform a few simple calculations. You may be asked to read a paragraph, look at a picture, breathe deeply or look at a flashing light.
+Video is routinely recorded during the EEG. Your body motions are captured by a video camera while the EEG records your brain waves. This combined recording can help your healthcare professional diagnose and treat your condition.
+An ambulatory EEG, also known as an aEEG, allows for longer monitoring outside an office or a hospital setting. But this type of EEG isn't always an option. This test can record brain activity over several days, which increases the chances of recording during seizure activity. However, compared with inpatient video EEG monitoring, an ambulatory EEG is not as good at determining the difference between epileptic seizures and nonepileptic seizures.
+
+After the test
+The technician removes the electrodes or cap. If you didn't have a sedative, you typically feel no side effects after the procedure. You usually can return to your typical routine.
+
+If you used a sedative, it takes time for the medicine to begin to wear off. Arrange to have someone drive you home. Once you're at home, rest and don't drive for the rest of the day.
+
+Results
+Doctors trained to analyze EEGs interpret the recording and send the results to the healthcare professional who ordered the EEG. You might need to schedule an office appointment to discuss the results of the test.
+
+If possible, bring along a family member or friend to the appointment to help you remember the information you're given.
+
+Write down questions to ask your healthcare professional, such as:
+
+Based on the results, what are my next steps?
+What follow-up, if any, do I need?
+Are there factors that might have affected the results of this test in some way?
+Will I need to repeat the test?
