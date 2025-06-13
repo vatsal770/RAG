@@ -1,12 +1,10 @@
-from transformers import AutoTokenizer, pipeline, AutoModelForCausalLM
+from transformers import pipeline
 from langchain_huggingface import HuggingFacePipeline
 
-# model = AutoModelForCausalLM.from_pretrained("local_models/SmolLM-1.7B-Instruct")
-# tokenizer = AutoTokenizer.from_pretrained("local_models/SmolLM-1.7B-Instruct")
+from llm_loader import model_Gemma, tokenizer_Gemma
 
-model = AutoModelForCausalLM.from_pretrained("local_models/gemma-2b-it")
-tokenizer = AutoTokenizer.from_pretrained("local_models/gemma-2b-it")
 
-pipe = pipeline("text-generation", model=model, tokenizer=tokenizer, max_new_tokens=512)
+print(type(tokenizer_Gemma))
+pipe = pipeline("text-generation", model=model_Gemma, tokenizer=tokenizer_Gemma, max_new_tokens=512)
 
 llm = HuggingFacePipeline(pipeline=pipe)
