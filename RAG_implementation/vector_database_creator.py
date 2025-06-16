@@ -12,7 +12,7 @@ from rank_bm25 import BM25Okapi
 logging.basicConfig(
     level=logging.INFO,  # Change to DEBUG for more verbose output
     format='%(asctime)s - %(levelname)s - %(message)s',
-    handlers=[logging.FileHandler("vector_database.log"), logging.StreamHandler()]
+    handlers=[logging.FileHandler("vector_database.log")]
 )
 
 
